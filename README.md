@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Pratiksha Tripathi</h1>
 <h3 align="center">Aspiring Software Developer | Python | Backend | DSA</h3>
 

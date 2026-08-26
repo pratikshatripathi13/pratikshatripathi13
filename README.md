@@ -1,17 +1,19 @@
-<h1 align="center">Hi, I'm Pratiksha Tripathi 👋</h1>
+<!-- ===== ANIMATED HEADER BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Pratiksha%20Tripathi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Backend%20•%20AI%2FML%20•%20Data%20Science&descAlignY=58&descSize=18" alt="header"/>
 
+<!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
-  <b>Software Developer</b> &nbsp;•&nbsp; Backend &nbsp;•&nbsp; AI / ML &nbsp;•&nbsp; Data Science &nbsp;•&nbsp; DSA
+  <a href="https://github.com/pratikshatripathi13">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Improve+%F0%9F%9A%80;Building+scalable+backend+systems;Exploring+AI%2FML+%26+Computer+Vision;Solving+problems%2C+one+commit+at+a+time" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="center">
-  <i>Learn → Build → Debug → Improve 🚀</i>
-</p>
-
+<!-- ===== SOCIAL + PROFILE VIEWS ===== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/pratikshatripathi13/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/pratikshatripathi13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:pratikshatripathi782@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=pratikshatripathi13&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="views"/>
 </p>
 
 ---
@@ -27,8 +29,8 @@ class PratikshaTripathi:
         self.focus = ["Scalable Backend Systems", "Applied AI/ML", "DSA"]
 
     def motto(self):
-        return "Building systems, exploring intelligence, "
-        "and solving problems — one commit at a time."
+        return ("Building systems, exploring intelligence, "
+                "and solving problems — one commit at a time.")
 ```
 
 ---
@@ -99,11 +101,19 @@ class PratikshaTripathi:
 ### 🏆 Highlights
 
 - 🥇 **Finalist**, Odoo Hackathon 2026
+- 🧮 Solved **300+ DSA problems** across LeetCode, HackerRank & GeeksforGeeks
+- 🌱 **Contributor** at GirlScript Summer of Code (GSSoC) 2025
 - ⭐ **4-Star** Python rating on HackerRank
 - 🎓 **Infosys STEM Scholar Award** for academic excellence
 - 📜 Oracle Data Platform Foundations Associate • AWS (Cipher Schools) • NPTEL Cloud Computing
 
 ---
+
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratikshatripathi13&theme=algolia&no-frame=true&column=7&margin-w=10" alt="trophies"/>
+</p>
 
 ### 📊 GitHub Stats
 
@@ -116,8 +126,23 @@ class PratikshaTripathi:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikshatripathi13&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
 
----
+### 📈 Contribution Graph
 
 <p align="center">
-  <i>⭐ "Building systems, exploring intelligence, and solving problems — one commit at a time."</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikshatripathi13&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 </p>
+
+<!-- ===== SNAKE CONTRIBUTION ANIMATION ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pratikshatripathi13/pratikshatripathi13/output/snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+<!-- ===== DEV QUOTE ===== -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+</p>
+
+<!-- ===== FOOTER WAVE ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="footer"/>

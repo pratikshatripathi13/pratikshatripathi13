@@ -1,220 +1,123 @@
-# Hi, I'm Pratiksha Tripathi 👋
-
-### Software Developer • Backend • AI/ML • Data Science • DSA
+<h1 align="center">Hi, I'm Pratiksha Tripathi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Backend+%26+AI-Powered+Applications;Exploring+Machine+Learning+%26+Computer+Vision;Turning+Data+into+Insights+and+Predictions;Solving+Problems+with+DSA+%F0%9F%9A%80" />
+  <b>Software Developer</b> &nbsp;•&nbsp; Backend &nbsp;•&nbsp; AI / ML &nbsp;•&nbsp; Data Science &nbsp;•&nbsp; DSA
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratikshatripathi13&label=Profile%20Views&color=0e75b6&style=flat" />
+  <i>Learn → Build → Debug → Improve 🚀</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratikshatripathi13/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/pratikshatripathi13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:pratikshatripathi782@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-## 🧠 `whoami`
+### 🧠 `whoami`
 
 ```python
 class PratikshaTripathi:
-
     def __init__(self):
         self.role = "Software Developer"
-        self.interests = [
-            "Backend Development",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Data Science"
-        ]
-
-        self.current_focus = [
-            "Data Structures & Algorithms",
-            "Scalable Backend Systems",
-            "Applied AI/ML Projects"
-        ]
+        self.location = "India 🇮🇳"
+        self.education = "B.Tech CSE @ Lovely Professional University (CGPA 8.53)"
+        self.focus = ["Scalable Backend Systems", "Applied AI/ML", "DSA"]
 
     def motto(self):
-        return "Learn → Build → Debug → Improve 🚀"
+        return "Building systems, exploring intelligence, "
+        "and solving problems — one commit at a time."
 ```
 
 ---
 
-## 🚀 What I Work With
+### 🚀 Tech Stack
 
-### 💻 Programming Languages
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🌐 Backend & Web Development
+**Backend & Web**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,react" />
-</p>
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🤖 AI/ML & Data Science
+**AI / ML & Data**
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
+### 🧩 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🧠 **[Smart Attendance System](https://university-smart-attendance-management.onrender.com)** | Full-stack platform that automates classroom attendance with **DeepFace / FaceNet** facial recognition and role-based access for Admin, Faculty & Students. | `Django` `PostgreSQL` `DeepFace` `FaceNet` |
+| ✈️ **[Flight Price Predictive Analytics](https://github.com/pratikshatripathi13/FLIGHT-PRICE-PREDICTIVE-ANALYSIS.git)** | ML pipeline that improved price-prediction accuracy by **18%** through feature engineering, served via an interactive Streamlit dashboard (<2s inference). | `Scikit-learn` `Pandas` `Streamlit` |
+| 🏙️ **[CivicPulse](https://github.com/pratikshatripathi13/CivicPulse-Intelligent-Public-Infrastructure-Monitoring-Platform.git)** | Civic-issue platform with geotagged reporting, interactive maps, and a **multi-signal duplicate-detection** engine (geo + time + image hash + text). | `React` `DRF` `PostGIS` `JWT` |
+
+---
+
+### 📈 What I'm Building Toward
 
 ```text
-Machine Learning        → Scikit-learn
-Data Analysis           → Pandas, NumPy
-Feature Engineering     → Data preprocessing & transformation
-Computer Vision         → Face Recognition, Emotion Detection
-Deep Learning Models    → FaceNet, Pre-trained AI Models
-AI Integration          → DeepFace, Hugging Face
-Data Visualization      → Matplotlib, Power BI, Tableau
-```
-
-### 🗄️ Databases & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>
-
-### ⚙️ Cloud, DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kafka,git,github,vscode,postman" />
-</p>
-
----
-
-# 🧩 Featured Projects
-
-## 🧠 Smart Attendance Management System
-
-> **AI-powered face recognition system for automated attendance management.**
-
-🔹 Integrated **DeepFace** for facial recognition
-🔹 Worked with **FaceNet** for face embeddings and recognition
-🔹 Connected AI capabilities with a **Django backend**
-🔹 Used **PostgreSQL** for managing application and attendance data
-🔹 Focused on reducing manual attendance processes through AI automation
-
-**Tech:** `Python` • `Django` • `DeepFace` • `FaceNet` • `PostgreSQL`
-
----
-
-
-
----
-
-## ✈️ Flight Price Predictive Analytics
-
-> **Machine learning project for predicting flight prices from historical data.**
-
-🔹 Performed data preprocessing and exploratory analysis
-🔹 Applied **feature engineering** to improve prediction performance
-🔹 Worked with machine learning models for predictive analytics
-🔹 Improved prediction accuracy by **18%** through feature engineering
-🔹 Created an interactive dashboard for predictions and analysis
-
-**Tech:** `Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Streamlit`
-
----
-
-## 📊 Data Analytics Projects
-
-### 🚗 Road Accident Analytics Dashboard
-
-Analyzed accident data to identify meaningful patterns and insights through dashboards and visualizations.
-
-**Focus:** `Data Analysis` • `Visualization` • `Dashboards` • `Power BI`
-
-### 🏅 Olympics Dataset EDA
-
-Performed exploratory data analysis to understand trends, patterns, and relationships within Olympics data.
-
-**Focus:** `Pandas` • `EDA` • `Data Cleaning` • `Data Visualization`
-
----
-
-## ☁️ CI/CD Portfolio Deployment
-
-> Automated deployment workflow for a portfolio application.
-
-🔹 Deployed application infrastructure using **AWS S3**
-🔹 Integrated **GitHub Actions** for CI/CD automation
-🔹 Practiced cloud deployment and automated workflows
-
-**Tech:** `AWS` • `GitHub Actions` • `CI/CD` • `Git`
-
----
-
-# 📚 Currently Learning & Improving
-
-```text
-🧩 Data Structures & Algorithms
-⚡ Advanced Backend Development
-🐳 Docker & Containerization
-📨 Apache Kafka & Event-Driven Systems
-☁️ Cloud Architecture
-🤖 Applied AI/ML & Computer Vision
-📊 Data Science & Machine Learning
+🧩 Data Structures & Algorithms      ⚡ Advanced Backend Systems
+🐳 Docker & Containerization         📨 Kafka & Event-Driven Design
+☁️ Cloud Architecture                🤖 Applied AI / Computer Vision
 ```
 
 ---
 
-# 🧠 Problem Solving
+### 🏆 Highlights
 
-```text
-DSA Journey
-├── Arrays & Strings
-├── Linked Lists
-├── Sliding Window
-├── Two Pointers
-├── Prefix Sum
-├── Recursion
-├── Trees
-└── Continuously Learning...
-```
-
-📌 Solving problems and strengthening fundamentals on platforms such as **LeetCode**, **GeeksforGeeks**, and **CodeChef**.
+- 🥇 **Finalist**, Odoo Hackathon 2026
+- ⭐ **4-Star** Python rating on HackerRank
+- 🎓 **Infosys STEM Scholar Award** for academic excellence
+- 📜 Oracle Data Platform Foundations Associate • AWS (Cipher Schools) • NPTEL Cloud Computing
 
 ---
 
-## 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikshatripathi13&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pratikshatripathi13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshatripathi13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikshatripathi13&hide_border=true" />
-</p>
-
----
-
-## 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshatripathi13&layout=compact&hide_border=true" />
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-
-  <a href="https://github.com/pratikshatripathi13">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikshatripathi13&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
 
 ---
 
 <p align="center">
-
-### ⭐ *"Building systems, exploring intelligence, and solving problems—one commit at a time."*
-
+  <i>⭐ "Building systems, exploring intelligence, and solving problems — one commit at a time."</i>
 </p>
-
-⭐️ Consistently building and improving.

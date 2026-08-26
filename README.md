@@ -95,17 +95,7 @@ Data Visualization      → Matplotlib, Power BI, Tableau
 
 ---
 
-## 🎭 AI Emotion & Deepfake Detector
 
-> **An AI application for analyzing facial emotions and detecting potential deepfakes.**
-
-🔹 Integrated pre-trained AI models for inference
-🔹 Performed **image/video analysis**
-🔹 Analyzed multiple video frames for deepfake detection
-🔹 Generated **Real vs Fake confidence scores**
-🔹 Built an interactive interface using **Streamlit**
-
-**Tech:** `Python` • `Streamlit` • `Computer Vision` • `Hugging Face` • `Deep Learning Models`
 
 ---
 

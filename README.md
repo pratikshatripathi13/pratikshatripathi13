@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=200&section=header&text=Pratiksha%20Tripathi&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=40" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764BA2&center=true&vCenter=true&width=560&lines=Software+Developer+%7C+CS+Student;Backend+Engineering;AI%2FML+%26+Computer+Vision;Data+Science+%26+Predictive+Analytics" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764BA2&center=true&vCenter=true&width=560&lines=Software+Developer+%7C+CS+Student;AI%2FML;Data+Science+%26+Predictive+Analytics" alt="typing"/>
 
 <p>
   <a href="https://www.linkedin.com/in/pratikshatripathi13/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
